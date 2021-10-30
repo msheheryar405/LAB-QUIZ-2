@@ -1,0 +1,60 @@
+
+* {
+    margin: 0;
+    padding-left: 10px;
+    box-sizing: border-box;
+   
+  }
+  
+  body {
+    background:
+    
+    
+    
+  }
+  .profile-pic
+  { padding-left: 100px ;
+      width: 450px;
+      height: 350px;
+
+
+  }
+  .about-data{
+
+    
+  }
+  .headings{
+     color: white;
+    font-size:35px;
+  }
+  .about-para{
+      color: white;
+      font-size: 20px;
+  }
+ 
+.She{
+    color: teal;
+    font-size: 45px;
+}
+
+.object{
+
+    color: teal;
+    font-size: 35px;
+}
+.object-para
+{
+    color: teal;
+    font-size: 25px;
+
+}
+.dates{
+    color: teal;
+    font-size: 25px;
+}
+
+.para-carer{
+
+    color: #013244;
+    font-size: 25px;
+}
